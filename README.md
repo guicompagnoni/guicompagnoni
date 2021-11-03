@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guicompagnoni
+- 👀 I’m interested in learns codes
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on SQL and Python
+- 📫 How to reach me guilherme.compagnoni@madeiramadeira.com.br
